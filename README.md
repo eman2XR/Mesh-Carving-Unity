@@ -1,2 +1,5 @@
 # Mesh-Carving-Unity
- Example of mesh carving in Unity creating using a clipper Library by Angus Johnson
+ Example of mesh carving in Unity creating using a desctructable terrain and a clipper library created by [Angus Johnson](http://www.angusj.com/).
+
+<img src="https://github.com/eman2XR/Mesh-Carving-Unity/blob/master/mesh-carving-demo.gif" width="700">
+
